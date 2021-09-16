@@ -11,26 +11,26 @@ This game was programmed using the [Inform 7](http://inform7.com/) programming l
  
 ## How to play ##
 
-**Playing an interactive fiction game **
+**Playing an interactive fiction game:**
 
 If you have never played an interactive fiction game before be sure to check out [this guide](http://www.microheaven.com/IFGuide/step3.html)
 
 Inform generates programs designed for the Z-code or Glulx virtual machine.
 More information about the Glulx compiler can be found [here](http://www.davidkinder.co.uk/glulxe.html)
 
-**Using the Glulx interpreter: ** 
+** Using the Glulx interpreter: ** 
 1. Download the latest version of the Glulx interpreter [here](https://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html)
 2. Download the Go Down Together .gblorb file from this repository
 3. When opening the Glulx application select the Go Down Together file 
 
 ## Accessibility ##
 
-**Text-to-speech option: **
+**Text-to-speech option:**
 Enabling the speech option in Glux allows the text to be read aloud. 
 1. Click on check mark icon at the top of the Glulx window to open the options window
 2. Click the speech tab in the options window 
 3. Check the box next to the option **“Speak text as it is printed”**
 
-**Bold lettering: **
+**Bold lettering:**
 If the player is unsure of what to type to progress the story they can type any of the bolded clues given after an action has taken place. I.e. **take the tea cup** or **open the window**
 
