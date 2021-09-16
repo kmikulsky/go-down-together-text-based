@@ -9,7 +9,7 @@ It was created to serve as a quick activity for a weekly album review club. The 
 
 This game was programmed using the [Inform 7](http://inform7.com/) programming language. 
  
-## How to play##
+## How to play ##
 
 ** Playing an interactive fiction game**
 
