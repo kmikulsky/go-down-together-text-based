@@ -13,9 +13,8 @@ This game was programmed using the [Inform 7](http://inform7.com/) programming l
 
 **Playing an interactive fiction game:**
 
-If you have never played an interactive fiction game before be sure to check out [this guide](http://www.microheaven.com/IFGuide/step3.html)
-Inform generates programs designed for the Z-code or Glulx virtual machine.
-More information about the Glulx compiler can be found [here](http://www.davidkinder.co.uk/glulxe.html)
+If you have never played an interactive fiction game before be sure to check out [this guide](http://www.microheaven.com/IFGuide/step3.html).
+Inform generates programs designed for the Z-code or Glulx virtual machine. More information about the Glulx compiler can be found [here](http://www.davidkinder.co.uk/glulxe.html)
 
 **Using the Glulx interpreter:** 
 1. Download the latest version of the Glulx interpreter [here](https://www.ifarchive.org/indexes/if-archiveXprogrammingXglulxXinterpretersXglulxe.html)
