@@ -5,7 +5,7 @@ A short science-fiction text-based adventure game created by Kiersten Mikulsky.
  
 The game is set in an apocalyptic world where the player is encouraged to make the most out of the time they have left. The gameplay focuses on careful decision making, ending on the 8th turn. 
 
-It was created to serve as a quick activity for a weekly album review club. The game can be completed in The song it is based off of is Go Down Together from the album [Draw Down The Moon by Foxing](https://en.wikipedia.org/wiki/Draw_Down_the_Moon_(Foxing_album))
+It was created to serve as a quick activity for a weekly album review club. The song it is based off of is Go Down Together from the album [Draw Down The Moon by Foxing](https://en.wikipedia.org/wiki/Draw_Down_the_Moon_(Foxing_album))
 
 This game was programmed using the [Inform 7](http://inform7.com/) programming language. 
  
