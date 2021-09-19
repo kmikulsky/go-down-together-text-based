@@ -27,7 +27,7 @@ Inform generates programs designed for the Z-code or Glulx virtual machine. More
 
 Enabling the speech option in Glux allows the text to be read aloud. 
 1. Click on check mark icon at the top of the Glulx window to open the options window
-2. Click the speech tab in the options window 
+2. Go to the speech tab in the options window 
 3. Check the box next to the option **“Speak text as it is printed”**
 
 **Bold lettering:**
